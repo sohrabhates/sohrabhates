@@ -4,10 +4,10 @@
 
 # 👋 Hi, I'm Sohrab Siddique
 
-### Aspiring Data Analyst • AI/ML Enthusiast • Full-Stack Developer
+### Data • AI/ML • Software Engineering
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=650&height=45&lines=Aspiring+Data+Analyst;AI+%26+Machine+Learning+Enthusiast;Full-Stack+Developer;Python+%7C+SQL+%7C+Machine+Learning;Building+and+Learning+Every+Day;Turning+Data+into+Useful+Solutions" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=650&height=45&lines=Aspiring+AI+Engineer;Data+Analytics+%7C+Machine+Learning;Python+%7C+SQL+%7C+Data+Science;Building+AI-Powered+Projects;Learning+%26+Building+Every+Day" alt="Typing animation"/>
 </p>
 
 </div>
@@ -16,78 +16,85 @@
 
 ## 🧑‍💻 About Me
 
-Hi, I'm **Sohrab** — a developer who enjoys learning by building and solving practical problems.
+Hi, I'm **Sohrab** — a developer who enjoys learning by building practical projects.
 
-I'm currently developing my skills across **Data Analytics, Machine Learning, AI, and Full-Stack Development**, with a long-term goal of becoming a **production-oriented AI Engineer**.
+I'm focused on **Data Analytics, Machine Learning, and Artificial Intelligence**, with a long-term goal of becoming a **production-oriented AI Engineer**.
 
-I enjoy taking an idea from:
+My approach is to build a strong foundation in **Python, SQL, statistics, data analysis and machine learning**, and then progress toward **deep learning, Generative AI, LLMs, RAG, AI agents and production AI systems**.
 
-**Data → Analysis → Model → Application → Deployment**
-
-I'm particularly interested in understanding how data and AI can be turned into **useful real-world products**.
+I also use my **software engineering and full-stack development skills** to turn models and ideas into usable applications.
 
 <div align="center">
-  <img src="./assets/sohrab_img.png" alt="Sohrab" width="280"/>
+  <img src="./assets/sohrab_img.png" alt="Sohrab" width="300"/>
 </div>
 
----
-
-## 🎯 What I'm Focused On
+### 🚀 What I'm Focused On
 
 - 📊 **Data Analytics** — Python, SQL, Pandas, NumPy, statistics & visualization
-- 🤖 **Machine Learning & AI** — ML fundamentals, model building and evaluation
-- 🧠 **AI Engineering** — gradually moving toward Deep Learning, LLMs, RAG and AI Agents
-- 💻 **Full-Stack Development** — building applications, APIs, databases and backend systems
-- 🧩 **Problem Solving** — improving DSA, programming and software engineering fundamentals
-- 🚀 **Real-World Projects** — turning ideas into working and usable applications
+- 🤖 **Machine Learning** — understanding algorithms, preprocessing, feature engineering & model evaluation
+- 🧠 **Artificial Intelligence** — progressing toward Deep Learning, Generative AI & intelligent systems
+- 🔎 **Data-Driven Problem Solving** — turning raw data into insights and useful solutions
+- 💻 **Software Engineering** — building applications around data and AI systems
+- 🚀 **Production AI** — eventually learning deployment, APIs, Docker, cloud & MLOps
 
 ---
 
 ## 📊 Data Analytics
 
 <div align="center">
-  <img src="./assets/dataanalytics.png" alt="Data Analytics" width="480"/>
+  <img src="./assets/dataanalytics.png" alt="Data Analytics" width="290"/>
 </div>
 
-I'm building a strong foundation in data analytics and learning how to turn raw data into meaningful insights.
+I'm building a strong foundation in **data analysis and statistics**, with an emphasis on understanding data before building models.
 
-**Currently working with:**
+### 🔍 Areas I'm Developing
+
+- Data cleaning & preprocessing
+- Exploratory Data Analysis (EDA)
+- Statistical analysis
+- Data visualization
+- SQL & relational databases
+- Feature engineering
+- Business and data-driven insights
+
+**Current Tools:**
 
 `Python` `SQL` `Pandas` `NumPy` `Matplotlib` `Statistics`
-
-My focus is on:
-
-- Data cleaning and preprocessing
-- Exploratory Data Analysis
-- Data visualization
-- Statistical thinking
-- SQL and databases
-- Finding patterns and insights from data
 
 ---
 
 ## 🤖 AI & Machine Learning
 
-My long-term direction is **AI Engineering** — not only training models, but understanding how to build and deploy useful AI-powered systems.
+My primary long-term direction is **Artificial Intelligence and Machine Learning**.
 
-### 🧠 My Learning Path
+I'm working toward understanding the complete journey from raw data to production-ready AI systems.
+
+### 🧠 Learning Path
 
 ```text
 Python
    ↓
-DSA + SQL
+DSA + Problem Solving
+   ↓
+SQL + Databases
    ↓
 Data Analysis + Statistics
    ↓
 Machine Learning
    ↓
-Deep Learning + PyTorch
+Deep Learning
+   ↓
+PyTorch
    ↓
 Generative AI + LLMs
    ↓
-RAG + Embeddings + Vector Databases
+Embeddings + Vector Databases
+   ↓
+RAG Systems
    ↓
 AI Agents
+   ↓
+AI Applications + APIs
    ↓
 Docker + Cloud
    ↓
